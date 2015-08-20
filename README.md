@@ -2,6 +2,8 @@
 
 Check if a thing is in an array
 
+[![Build Status](https://drone.io/github.com/mvhenten/isin/status.png)](https://drone.io/github.com/mvhenten/isin/latest)
+
 ## Installation
 
 ```
@@ -9,6 +11,8 @@ Check if a thing is in an array
 ```
 
 ### Usage
+
+Check out the [tests](./test.js) if this is unclear to you:
 
 ```javascript
     
@@ -33,3 +37,4 @@ Check if a thing is in an array
 I got sick and tired of ```if( Array.isArray(options) && options.indexOf(foo) !== -1 )```
 Plus, there are `42` tests.
 
+**better be verbose then sorry**
