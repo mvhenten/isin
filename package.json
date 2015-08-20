@@ -1,0 +1,22 @@
+{
+  "name": "isin",
+  "version": "0.0.1",
+  "description": "Check if value is in array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvhenten/isin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/isin/issues"
+  },
+  "homepage": "https://github.com/mvhenten/isin",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
